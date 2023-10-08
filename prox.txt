@@ -1,1 +1,6 @@
 11111111
+int float double
+string boolean short
+long unsigned binary
+oct hex set class vector
+char struct void *
